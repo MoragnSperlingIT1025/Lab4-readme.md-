@@ -1,0 +1,116 @@
+# Cybersecurity and Encryption
+
+## Inforamtion Systems Security
+
+
+If I worked at Amazon in the information system Security department and following the
+The Information Triad this would effect the way I do my job in many various ways
+First leg of the triad is Confidentiality, I would follow certain security measures
+to make sure or to be confident that who I am giving information to the right person
+Also at the same time information is not being given to an unauthorized person.
+Integrity is the second side of the triad. What this would me to me if I was working is 
+security at Amazon would I would and only would access privileged information if 
+and only if, if it was work related. Lastly there is availibilty this means that there also 
+has to be someone available to make the appropriate changes in a timely matter. This might 
+mean for someone working a Amazon to have rotating shifts and hiring enough 
+people to cover the 24/7 timeframe.
+
+Authentication is acheived through 3 factors, something they know, something 
+they have, or something they are. Three daily tasks that require authentication,
+unlocking you phone, you must use a 4 or 8 digit code to unlock i, clocking into
+work, some places requires you to use your finger print as a biometric authentication
+and lastly using for zip-code to purchase things online with a debit or credit card.
+The phone that requires a authentication after puting in your code, the phone could as
+your to scan your finger print over the camera. Next clocking into work, the time clock
+machine could make take a picture of your face with a timestamp. And Last the zipcode 
+for the credit, maybe adding the question for your mother maiden name.
+
+
+ACL is the for each information resource that an organization wants to manage, a list
+of usres who have the ability to take specific actions can be created. ACL
+are easy to maintain and understand. The disadvantage are that each information 
+resource is managed separately, so adding a large amount of information would be 
+difficult. Next there RBAC instead of giving user access rights to an information 
+resource users are assigned to roles and then those rolse are assigned the access.
+This allows the administrators to manage users and roles separately, simplifying
+administration. The disadvantage of this would be it would require more energy to 
+to keep up.
+
+
+When sending information it must be encryted, this is a security measure used to 
+ensure only the authorized people are able to read it. Encryption is the process of 
+encoding data upon it transmission or storage. This is done by a computer program.
+which encode plain text that then needs to be transmitted. Then the reicpients receives 
+the cipher text and decodes it. You would then need an encryption key. You would need 
+two of them, public and private. The public key can be given to anyone who wishes
+to send the recipient message.Each user simply needs one private and one public key
+in order to secure messages. The private key is necessary in order to decrypt something
+sent with the public key.
+
+Explain why we need public key cryptography. 
+
+We needed public cryptography in order to ensure confidentiality, also to ensure
+security and data integrity. Also from the video Eve wont get the secret color.
+
+### Cybersecurity and Encryption
+
+Watch the videos "What is cryptography?" and "The Caesar cipher" 
+
+Cryptography is using a cipher or virtual lock to scramble a code in order to 
+send messages in private. 
+
+### Cryptography
+
+I had a simple message of "Helllo there" which translaed to "ifmmmp uifsf" I only
+selected the 2 option.
+
+Frequency Fingerprint Exploration with the 2 selection is "gsfrvfodz gjohfsqsjou
+fyqmpsbujpo". This would be a different code if it was in a different language 
+because each language has its own fingerprint. 
+
+Polyalphabetic cipher is any cipher that uses substitutions of the alphabet.
+
+After puting a messages into the Polyalphabetic Exploration it gave another code
+that is hard to decode. I use the same message as before and it shifted the message 
+even more.
+
+## Brute-Force
+
+Brute-force attach tries every possible decrpyion key for a cipher. 
+Kerckhoff principle states that cipher should still be secure even if everyone know how the cipher
+works and someone else has the ciphertext.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     
