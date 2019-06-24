@@ -81,6 +81,18 @@ Kerckhoff principle states that cipher should still be secure even if everyone k
 works and someone else has the ciphertext.
 
 
+# Internet Architecture
+
+## Internet Protocol
+
+What is an IP address and what is the difference between IPv4 and IPv6? 
+
+IP address are the unique number assigned to every computer or device thats
+connected to the internet. IPv4 is the pool of available unallocated addresses for 
+the original IP, is usually a string of numbers between 0-255. IPv6 is a longer
+address and written using hexadecimals, using colons to separate.
+
+
 
 
 
