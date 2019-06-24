@@ -116,6 +116,27 @@ What types of applications run on the "application" layer?
 HTTP,FTP,POP3,SMTP,SNMP
 
 ## Internet Security
+
+
+HTTP is hypertext transfer protocol is the protocol that is used to see websites. HTTP is the sites application layer protocol works on the SSL
+the computer web browser to identify itself and ask for a copy of the SSL and used to authenicate the website or to see if its trustworthy.
+
+The procotols use to secure HTTP is to use HTTPS, this encrypts the data when transmitted. 
+
+###  Internet Architecture
+
+Why should you secure your browser? 
+
+To stop spyware being installed or someone taking control of your computer.
+
+Explain one of the risks described in the article.
+
+Plug-in are applications intened for use in the web browers. Plug-ins can present many flaws, such as buffer overflows, and design flaws.
+
+
+
+
+
  
 
 
