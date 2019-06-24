@@ -93,6 +93,33 @@ the original IP, is usually a string of numbers between 0-255. IPv6 is a longer
 address and written using hexadecimals, using colons to separate.
 
 
+ICANN is theInternet Corporation for Assigned Names and Numbers. It was started to help the governemnt
+manage certain functions that maintain the internets core infrastructure. It maintinas the central repository
+for IP addresses and helps coordinate the supply of IP addresses. It also manages the domain name system and root servers. 
+
+
+TCP/IP is a collection of communication protocols used to interconnect network devices on the internet, this can also be used for private
+networks.  It shows how data is exchanged over the internet by providing end-to-end commincations that show how it should be broken down
+in packets, transmitted, routed, received and addressed.
+
+IP addrees is the same as a phone number, and the port number would be like to a certian extension once the call has been answered. The client
+in the TCP/IP connection is the computer that dial the phone and the server is the computer that is linstening for the call to come in. 
+
+Review the section of the article aligning the post office with protocol stacks.  Why are layers important to changing technology? 
+
+Layered protocol stacks, each level of the stack performs a particular function and communicates with the levels above and below it.
+The layers protocols can be changed without affecting the other layers.
+
+
+What types of applications run on the "application" layer?
+
+HTTP,FTP,POP3,SMTP,SNMP
+
+## Internet Security
+ 
+
+
+
 
 
 
