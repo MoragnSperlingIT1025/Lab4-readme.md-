@@ -160,6 +160,16 @@ XML is different than HTML because it is used to store and transfer data. This i
 , while HTML is designed show data. XML is also does not have predefined like HTML.
 
 
+# Components of a URL 
+
+ scheme - https
+ domain -www.amazon.com 
+ top level domain -.edu 
+ default page- result of search  
+ parameters-  no file path provided 
+ anchor- specific location on a page
+ 
+ 
 
 
 
