@@ -131,7 +131,28 @@ To stop spyware being installed or someone taking control of your computer.
 
 Explain one of the risks described in the article.
 
-Plug-in are applications intened for use in the web browers. Plug-ins can present many flaws, such as buffer overflows, and design flaws.
+Plug-in are applications intened for use in the web browers. Plug-ins can present many flaws, 
+such as buffer overflows, and design flaws.
+
+# Internet Programming
+
+Who was Tim Berners-Lee and why did he create the W3C? 
+
+Tim Berners-Lee is the inventor of the World Wide Web, worte ths first world wide web server, httpd, and the first client program.
+Wrote the first HTML. W3C was created to develop open standards sot eht web develops in a signle direction,
+
+
+Pick a "standard" of your choice and explain why it is important.
+
+Web Design and Applications developed the standard for building and Rendering Web pages. This is important because a consumer
+would know what to expect when visiting and standard website. This is also important to know so when a person is building a website 
+for a consumer they would know all the things they need for it to user friendly, such as graphics accessibility, etc.
+
+
+
+
+
+
 
 
 
