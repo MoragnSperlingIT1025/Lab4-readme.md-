@@ -169,6 +169,14 @@ XML is different than HTML because it is used to store and transfer data. This i
  parameters-  no file path provided 
  anchor- specific location on a page
  
+ # File Compression
+ 
+ File is compression is when the packaging of a file to use less disk space. Software helps with taking many files
+ and compress them into one file. 
+ 
+ When compressed my folder it became smaller but not by much. The jpg folder is much smaller than the folder but is will also become
+ smaller when compressed. 
+ 
  
  
 
